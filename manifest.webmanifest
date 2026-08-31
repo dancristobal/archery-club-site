@@ -1,0 +1,21 @@
+{
+  "name": "Club de Tiro con Arco",
+  "short_name": "Tiro con Arco",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "Sitio oficial del Club de Tiro con Arco: eventos, cursos y biblioteca técnica.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

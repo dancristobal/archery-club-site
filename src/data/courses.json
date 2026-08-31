@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Curso de Iniciación",
+    "level": "iniciacion",
+    "duration": "8 semanas",
+    "price": "45 €/mes",
+    "schedule": "Sábados 10:00 - 12:00",
+    "requirements": "Mayor de 16 años, sin experiencia previa necesaria.",
+    "description": "Fundamentos del tiro con arco, seguridad básica y técnica inicial.",
+    "imageUrl": "/assets/courses/iniciacion.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Curso Intermedio",
+    "level": "intermedio",
+    "duration": "12 semanas",
+    "price": "55 €/mes",
+    "schedule": "Domingos 10:00 - 13:00",
+    "requirements": "Haber completado iniciación o experiencia equivalente.",
+    "description": "Perfeccionamiento de técnica, control de respiración y preparación física.",
+    "imageUrl": "/assets/courses/intermedio.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Curso Avanzado",
+    "level": "avanzado",
+    "duration": "16 semanas",
+    "price": "65 €/mes",
+    "schedule": "Viernes 18:00 - 21:00",
+    "requirements": "Nivel intermedio consolidado y participación en al menos una competición.",
+    "description": "Optimización de rendimiento, análisis de vídeo y preparación competitiva.",
+    "imageUrl": "/assets/courses/avanzado.jpg"
+  }
+]

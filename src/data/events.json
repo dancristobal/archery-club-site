@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Práctica abierta de iniciación",
+    "dateStart": "2026-09-05",
+    "time": "10:00",
+    "location": "Campo de tiro principal",
+    "description": "Sesión guiada para nuevos miembros.",
+    "imageUrl": "/assets/events/iniciacion.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Competición interna mensual",
+    "dateStart": "2026-09-20",
+    "time": "09:00",
+    "location": "Pista oficial",
+    "description": "Ronda clasificatoria y eliminatorias.",
+    "imageUrl": "/assets/events/competicion.jpg"
+  }
+]

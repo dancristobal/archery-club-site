@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Manual técnico básico",
+    "category": "tecnica",
+    "description": "Posturas, agarre y alineación para principiantes.",
+    "fileUrl": "/assets/manuals/tecnica-basico.pdf",
+    "fileSize": "1.2 MB"
+  },
+  {
+    "id": 2,
+    "title": "Normas de seguridad en el campo",
+    "category": "seguridad",
+    "description": "Protocolos obligatorios antes, durante y después de la práctica.",
+    "fileUrl": "/assets/manuals/seguridad-normas.pdf",
+    "fileSize": "900 KB"
+  },
+  {
+    "id": 3,
+    "title": "Reglamento federativo actualizado",
+    "category": "reglamento",
+    "description": "Reglas oficiales para competiciones regionales y nacionales.",
+    "fileUrl": "/assets/manuals/reglamento-federacion.pdf",
+    "fileSize": "2.4 MB"
+  }
+]
